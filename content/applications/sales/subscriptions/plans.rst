@@ -37,10 +37,10 @@ Selecting a :guilabel:`Recurrence` enables the following additional options:
   journal. If none, the sales journal with the lowest sequence is used.
 
 .. note::
-   On each template, you can add specific :doc:`Terms & Conditions
-   <../sales/send_quotations/terms_and_conditions>`. If **terms and conditions** are specified on a
-   template, these will be used instead of the default **terms and conditions** set in the **Sales**
-   app settings (if any are set).
+   On each template, you can add specific terms and conditions. These will be used instead of any
+   :doc:`default terms and conditions
+   <../../finance/accounting/receivables/customer_invoices/terms_conditions>` set in the
+   Accounting/Invoicing app settings.
 
 .. image:: plans/subplan-terms.png
    :alt: Terms and conditions of subscription plan
