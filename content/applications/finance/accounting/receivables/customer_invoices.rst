@@ -16,3 +16,4 @@ Customer invoices
    customer_invoices/epc_qr_code
    customer_invoices/snailmail
    customer_invoices/electronic_invoicing
+   customer_invoices/terms_conditions
