@@ -20,7 +20,7 @@ Go to :menuselection:`Sales --> Configuration --> Quotations Templates` and clic
 
 After having named the template, choose default values for the following fields:
 
-- :guilabel:`Quotation expires after`: choose a number of days for which the quotation is valid.
+- :guilabel:`Quotation expires after`: choose the number of days for which the quotation is valid.
 - :guilabel:`Online confirmation`: after sending the quotation by email, choose if the customer
   should confirm it online on their portal:
 
@@ -28,8 +28,8 @@ After having named the template, choose default values for the following fields:
   - by making a :guilabel:`Payment`,
   - or both.
 
-- :guilabel:`Confirmation Mail`: send an email to the customer upon their confirmation of the
-  quotation by selecting an email template.
+- :guilabel:`Confirmation Mail`: send an email to the customer upon confirming the quotation by
+  selecting an email template.
 
 On the :guilabel:`Lines` tab, add the default products and their quantity. Add any
 :guilabel:`Optional Products` on the homonymous tab.
@@ -51,8 +51,8 @@ Configuration --> Settings` and enabling the :guilabel:`Quotation Builder` featu
    If necessary, Odoo automatically installs the Website app when enabling this feature.
 
 Select a template by going to :menuselection:`Sales --> Configuration --> Quotations Templates` and
-click :guilabel:`Design Template`. On the Website Builder, click :guilabel:`Edit`. Drag and drop the
-building blocks, edit the content, and :guilabel:`Save`.
+clicking :guilabel:`Design Template`. On the Website Builder, click :guilabel:`Edit`. Drag and drop
+the building blocks, edit the content, and :guilabel:`Save`.
 
 .. image:: quote_template/quotation-builder.png
    :alt: Using the quotation builder
@@ -61,7 +61,7 @@ Use a template
 ==============
 
 When creating a quotation, choose a template under the :guilabel:`Quotation Template` field. All the
-fields are then filled in accordingly. Manually edit any pre-filled in field if needed.
+fields are then filled accordingly. Manually edit any pre-filled field if needed.
 
 .. tip::
    Go to :menuselection:`Sales --> Configuration --> Settings` to select a :guilabel:`Default
