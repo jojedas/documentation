@@ -24,3 +24,7 @@ To edit the layout and content of the page using the Website Builder, install th
 
 .. image:: terms_conditions/terms-webpage.png
    :alt: Example of terms and conditions as a web page
+
+.. seealso::
+   `Odoo Tutorial: Terms & Conditions
+   <https://www.odoo.com/slides/slide/terms-conditions-1680?fullscreen=1>`_
